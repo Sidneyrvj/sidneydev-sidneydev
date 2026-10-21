@@ -59,3 +59,18 @@ Aplicação desenvolvida em Python e orientada pelo Claude Code para automatizar
 Stack: Python • Automação • Claude Code
 ## Contato
 Email: sidneyyrodriguess76@gmail.com
+
+📖 Estudos e Referências
+
+Mantenho uma biblioteca pessoal de estudos sobre desenvolvimento de software, algoritmos, arquitetura, DevOps e outros fundamentos da área.
+📚 BibliotecaDev
+
+🎯 Objetivo
+
+Construir uma carreira sólida em Desenvolvimento de Software, com foco em Backend, desenvolvendo sistemas bem estruturados, adquirindo experiência prática e aprofundando continuamente meus fundamentos de computação.
+
+📫 Contato
+
+💼 LinkedIn: [[seu LinkedIn](https://www.linkedin.com/in/sidney-rodrigues-0b18a0334/?isSelfProfile=true)]
+🐙 GitHub: Sidneyrvj
+📧 Email: sidneyyrodriguess76@gmail.com
